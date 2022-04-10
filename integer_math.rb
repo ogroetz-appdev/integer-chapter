@@ -4,3 +4,6 @@
 # 
 # 4
 
+num_days_year = 365
+num_days_week = 7
+p num_days_year % num_days_week
